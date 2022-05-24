@@ -1,0 +1,31 @@
+.noResult {
+    text-align: center;
+    margin: 20px;
+    background-color: red;
+    padding: 20px;
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+}
+
+.infoClientContainer {
+    margin-top: 10px;
+}
+
+.textNameContainer {
+    margin: 0 10px 20px 20px;
+}
+
+.clientName {
+    color: #009688;
+}
+
+.paragraph {
+    margin: 10px 0 0 20px;
+    font-size: 20px;
+}
+
+.ver {
+    text-transform: uppercase;
+    font-weight: 700;
+}

@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "nombre": "Andrés Ríos Ruiz",
+      "empresa": "Empresa",
+      "email": "correo@correo.com",
+      "telefono": "4565123",
+      "notas": "Sin notas",
+      "id": 1
+    },
+    {
+      "nombre": "Essau Morales",
+      "empresa": "Globant",
+      "email": "correo@correo.com",
+      "telefono": "56432123",
+      "notas": "Otro mas",
+      "id": 2
+    }
+  ]
+}

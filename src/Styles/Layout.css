@@ -1,0 +1,48 @@
+.mainContainer {
+     display: flex;
+     flex-direction: column;
+}
+
+.leftContainer {
+    width: 100%;
+    height: 15vh;
+    background-color: #009688;
+    padding: 15px;
+}
+
+.leftTitleContainer {
+    text-align: center;
+}
+
+.leftTitleContainer a {
+    color: #fff;
+    font-size: 2.4rem;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.navContainer {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 15px;
+}
+
+.navContainer a {
+    font-size: 1.4rem;
+    text-decoration: none;
+    color: #fff;
+}
+
+.navContainer a:hover {
+    cursor: pointer;
+    color: #24544f;
+}
+
+#inLink {
+    color: #24544f;
+}
+
+.rightContainer {
+    width: 100%;
+    height: auto;
+}
